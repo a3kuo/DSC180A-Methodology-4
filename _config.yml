@@ -1,0 +1,3 @@
+remote_theme: pages-themes/chalk
+plugins:
+- jekyll-remote-theme
